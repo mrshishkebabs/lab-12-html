@@ -1,0 +1,12 @@
+Banner?:
+- Animated JS artwork: Probably simple and defines my thought process...
+- Name, Major, Symbol
+
+Contact Page:
+-Discord 
+-Hunter Email
+
+Navigation: 
+-About Me
+-Portfolio
+-Contacts

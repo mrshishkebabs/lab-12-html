@@ -1,0 +1,12 @@
+-Picture-
+-"Hello! My name is Ken Park and I'm from New York!
+-About Me:
+-"Currently I am in CUNY BA program where I am able to build my own major! So far it is Game Project Management and my home college is Hunter College in New York. I work of others stuff too like art, creative writing and programming."
+	-About Art: "I'm doing conceptual art on the drawing tablet now. Before I used to craft weapon out of junk or out of duct tape."
+	-About Writing: "Terrible writer. However, thats not going to stop me from trying."
+	-About Programming: "I'm still a beginner at Python, Java, Javascript, and C++ enough to learn the overall basic to understand script in games(Only the simple one though)." 
+
+Navigation: 
+-Home Page
+-Portfolio
+-Contacts
